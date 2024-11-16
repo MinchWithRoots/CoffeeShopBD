@@ -1,0 +1,11 @@
+S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\bin\Debug\CoffeeShopAppBD.exe.config
+S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\bin\Debug\CoffeeShopAppBD.exe
+S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\bin\Debug\CoffeeShopAppBD.pdb
+S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\obj\Debug\CoffeeShopAppBD.csproj.AssemblyReference.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\obj\Debug\CoffeeShopAppBD.Properties.Resources.resources
+S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\obj\Debug\CoffeeShopAppBD.csproj.GenerateResource.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\obj\Debug\CoffeeShopAppBD.csproj.CoreCompileInputs.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\obj\Debug\CoffeeShopAppBD.exe
+S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\obj\Debug\CoffeeShopAppBD.pdb
+S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\obj\Debug\CoffeeShopAppBD.RegistrationForm.resources
+S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\obj\Debug\CoffeeShopAppBD.LogInForm.resources
