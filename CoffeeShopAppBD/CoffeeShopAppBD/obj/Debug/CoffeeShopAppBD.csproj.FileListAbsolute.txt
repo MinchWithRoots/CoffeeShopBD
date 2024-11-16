@@ -9,3 +9,4 @@ S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeSho
 S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\obj\Debug\CoffeeShopAppBD.pdb
 S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\obj\Debug\CoffeeShopAppBD.RegistrationForm.resources
 S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\obj\Debug\CoffeeShopAppBD.LogInForm.resources
+S:\USERS\52-03\Едемская Мария Владимировна\c#\CoffeeShopAppBD\CoffeeShopAppBD\obj\Debug\CoffeeShopAppBD.AdminForm.resources
